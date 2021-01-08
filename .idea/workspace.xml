@@ -49,18 +49,6 @@
       <change afterPath="$PROJECT_DIR$/../Bitcoin/entity/RPCRequest.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Bitcoin/main.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../az/cz.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/cion.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/app.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/default.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routers/router.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/reload.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/default_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/index.tpl" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../cooperation/main.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../feel/main.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lecture/lecture.go" afterDir="false" />
@@ -84,6 +72,7 @@
       <change beforePath="$PROJECT_DIR$/../BaoProject/static/js/push.js.下载" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../BaoProject/views/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BaoProject/views/register.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../September/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../September/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../github.com/astaxie/beego" beforeDir="false" afterPath="$PROJECT_DIR$/../github.com/astaxie/beego" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../github.com/beego框架所需要的的包2（放在github.com目录中）/github.com.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../github.com/go-sql-driver/mysql" beforeDir="false" afterPath="$PROJECT_DIR$/../github.com/go-sql-driver/mysql" afterDir="false" />
@@ -1595,21 +1584,21 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="3" key="#GOROOT/0.0.1280.680@0.0.1280.680" timestamp="1610091938971" />
-    <state width="1237" height="124" key="GridCell.Tab.0.bottom" timestamp="1610092023832">
+    <state width="1237" height="124" key="GridCell.Tab.0.bottom" timestamp="1610095377610">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="124" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1610092023832" />
-    <state width="1237" height="124" key="GridCell.Tab.0.center" timestamp="1610092023831">
+    <state width="1237" height="124" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1610095377610" />
+    <state width="1237" height="124" key="GridCell.Tab.0.center" timestamp="1610095377609">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="124" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1610092023831" />
-    <state width="1237" height="124" key="GridCell.Tab.0.left" timestamp="1610092023831">
+    <state width="1237" height="124" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1610095377609" />
+    <state width="1237" height="124" key="GridCell.Tab.0.left" timestamp="1610095377609">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="124" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1610092023831" />
-    <state width="1237" height="124" key="GridCell.Tab.0.right" timestamp="1610092023832">
+    <state width="1237" height="124" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1610095377609" />
+    <state width="1237" height="124" key="GridCell.Tab.0.right" timestamp="1610095377609">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="124" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1610092023832" />
+    <state width="1237" height="124" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1610095377609" />
   </component>
 </project>
